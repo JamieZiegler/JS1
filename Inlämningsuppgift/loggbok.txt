@@ -1,0 +1,11 @@
+För G:
+
+1. Lägg till JavaScript så när man klickar på en bild med '?' ska bilden bakom visas (det är tillåtet att skapa CSS/HTML-attribut)
+2. Gör så att tid blir en dropdown med '15s', '30s', '60s'
+3. För loggbok med korftattade beskrivningar om arbetet dag för dag. Lagra som en del i repo (loggbok.txt)
+
+För VG:
+
+1. Gör så att spelet fungerar, tid, antal och starta ska fungera
+2. Gör så att alla bilder initieras från en array
+3. Gör så att spelplanen shufflas
