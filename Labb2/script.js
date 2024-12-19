@@ -1,6 +1,6 @@
-const badge = document.querySelector(".badge");
-const addToCartBtn = document.querySelector(".cta-add");
-const removeFromCartBtn = document.querySelector(".cta-select");
+const badge = document.getElementById("badge");
+const addToCartBtn = document.getElementById("cta-add");
+const removeFromCartBtn = document.getElementById("cta-select");
 
 let cartCount = 0;
 
