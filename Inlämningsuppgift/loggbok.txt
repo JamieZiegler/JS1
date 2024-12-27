@@ -1,11 +1,21 @@
-För G:
+22 December 2024
 
-1. Lägg till JavaScript så när man klickar på en bild med '?' ska bilden bakom visas (det är tillåtet att skapa CSS/HTML-attribut)
-2. Gör så att tid blir en dropdown med '15s', '30s', '60s'
-3. För loggbok med korftattade beskrivningar om arbetet dag för dag. Lagra som en del i repo (loggbok.txt)
+Hämtat alla filer, läst igenom existerande kod.
+Implementerat klickfunktion för att vända kort, testat funktionen.
+Skapat tidväljare (dropdown) och startknapp.
 
-För VG:
+26 December 2024
 
-1. Gör så att spelet fungerar, tid, antal och starta ska fungera
-2. Gör så att alla bilder initieras från en array
-3. Gör så att spelplanen shufflas
+Implementerat förbättringar för klickfuntkioner, bl.a. lagt till vilkor som gör att 
+matchade par ligger kvar uppvända och inte längre lyssnar efter klick.
+Skapat timer-funktion och lagt in nedräknare i UI.
+Bytt bilder för att snygga till UI.
+Skapat funktion för att räkna matchade par.
+
+27 December 2024
+
+Sorterat/justerat ordning i kod för att öka läsbarhet.
+Skapat snö-effekt med JS och CSS.
+Ändrat generell design av hela sidan för att passa ett jultema genom t.ex. byte av färger
+och tillägg i form av en polgagris-border.
+Slutgiltigt test så att allt fungerar utan problem, åtgärdat en saknad parentes.
